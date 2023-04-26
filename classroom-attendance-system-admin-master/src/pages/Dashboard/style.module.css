@@ -1,0 +1,19 @@
+.container{
+  padding-top: 30px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+  height: 260px;
+  width: 420px;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.statistic_col{
+  height:110px;
+  padding-left: 10px;
+  padding-top: 10px;
+}

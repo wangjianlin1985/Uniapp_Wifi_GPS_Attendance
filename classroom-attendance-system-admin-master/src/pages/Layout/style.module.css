@@ -1,0 +1,20 @@
+.headerSide{
+  display: flex;
+  align-items: center;
+}
+
+.userTag{
+  display: flex;
+  align-items: center;
+  color: #409eff;
+  cursor: pointer;
+  user-select: none;
+}
+
+.userTag > span{
+  margin-right: 5px;
+}
+
+.sideMenuTitle{
+  margin-left: 5px;
+}

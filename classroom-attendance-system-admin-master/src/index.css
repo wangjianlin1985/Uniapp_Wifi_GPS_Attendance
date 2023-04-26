@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.logo{
+  height:60px;
+  display: flex;
+  align-items: center;
+  padding: 0 23px;
+  font-size: 18px;
+  font-weight: bold;
+}

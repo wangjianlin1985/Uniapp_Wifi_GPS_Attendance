@@ -1,0 +1,12 @@
+.container{
+  margin-top: 20px;
+}
+
+.controlBox{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.headerBtn{
+  margin-left: 5px;
+}
